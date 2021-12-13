@@ -2,3 +2,4 @@
 2. Tätä tiedostoa muokataan, minkä jälkeen testataan uudelleen commitin tekemistä.
 3. Lisätään kolmas rivi ja vähän tekstiä.
 4. Kokeillaan tiedostojen muokkausta githubin nettikäyttöliittymässä.
+Lopuksi tehdään vielä viimeiset muokkaukset ja commit-testaukset.
